@@ -9,3 +9,8 @@ int main(){
     //std:endl es una opción; pero "\n" cumpliría la misma función
     return 0;
 }
+
+/*
+Cargar y actualizar archivo .exe
+g++ -o <programa>.cpp <programa>.exe
+*/
