@@ -1,6 +1,7 @@
 #include <iostream> // sirve para imprimir en pantalla y leer de ella
 // std:: es el header file que contiene la definición de cout y endl
 int main(){
+    setlocale(LC_ALL, "spanish"); //Para que se pueda imprimir en pantalla con tildes
     int x = 5;
     std::cout << "Hello word" << std::endl; //endl = fin de linea
     std::cout << "gg\n"; //\n = fin de linea
