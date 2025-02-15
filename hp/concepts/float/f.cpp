@@ -8,6 +8,8 @@
 
 /*
     int a {5}; //Integral
-    dobuble y = 5.0;//Es un liteal floating point
+    double y = 5.0;//Es un liteal floating point
     float x = 5.0f; //Es un literal floating point, el sufijo f indica que es un float
 */
+
+//Double sirve para representar números reales con decimales, es más preciso que float.
